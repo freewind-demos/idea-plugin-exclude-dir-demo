@@ -1,5 +1,5 @@
-Idea Plugin Hello World Demo
-=======================
+Idea Plugin Exclude Dir Demo
+============================
 
 Run plugin in IDEA
 ------------------
